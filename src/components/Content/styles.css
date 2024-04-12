@@ -1,0 +1,6 @@
+.content-container {
+  padding: 2em 8em;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}

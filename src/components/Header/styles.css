@@ -1,0 +1,11 @@
+.nav-container {
+  background-color: #3c1b1b;
+  width: calc(100vw - 5em);
+
+  & ul {
+    padding: 0.7rem 1em;
+    display: flex;
+    gap: 0.7rem;
+    justify-content: end;
+  }
+}
